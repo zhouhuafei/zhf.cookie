@@ -1,6 +1,6 @@
 {
     "name": "zhf.cookie",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "no description",
     "main": "dist/index.min.js",
     "scripts": {
@@ -34,8 +34,5 @@
         "gulp-rename": "^1.2.2",
         "gulp-uglify": "^3.0.0",
         "jest": "^22.1.1"
-    },
-    "dependencies": {
-        "zhf.get-dom-array": "^1.0.1"
     }
 }
